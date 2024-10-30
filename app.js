@@ -1,3 +1,7 @@
+
+document.write(" <h2> JS-ASSIGNMENT-03 </h2>")
+
+
 // // --------------CHAPTER----21 TO ----- 25
 
 
@@ -675,11 +679,14 @@
 //         var pair = sen[i] + sen[i + 1];
 
 //         switch (pair) {
-//             case "aa": case "ae": case "ai": case "ao": case "au":
-//             case "ea": case "ee": case "ei": case "eo": case "eu":
-//             case "ia": case "ie": case "ii": case "io": case "iu":
-//             case "oa": case "oe": case "oi": case "oo": case "ou":
-//             case "ua": case "ue": case "ui": case "uo": case "uu":
+//              case "ae": case "ai": case "ao":
+//             case "ea": case "ee": case "ei":
+//             case "eo": case "eu": case "ia":
+//              case "ie":  case "io": case "iu":
+//             case "oa": case "oe": case "oi":
+//              case "oo": case "ou":case "ua": 
+//             case "ue": case "ui": 
+
 //                 count++;
 //                 break;
 //   }
